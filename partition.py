@@ -10,5 +10,5 @@ def partition_p(m,n,p=1,k=2):
         k += 1
     return p
 
-def partiton(n):
+def partition(n):
   return partition_p(n,n)
